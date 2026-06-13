@@ -1,5 +1,7 @@
 # Quantifying Urban Transportation Network Resilience Through Complex Network Analysis and Machine Learning: A Case Study of Bole Sub-City, Addis Ababa, Ethiopia
+### Figure 1: Transportation Network
 
+![Transportation Network](figures/bole_network.png)
 ## Project Overview
 
 Transportation networks are critical infrastructures that support mobility, economic activity, and urban development. Understanding how transportation systems respond to disruptions is essential for developing resilient and sustainable mobility strategies.
