@@ -1,0 +1,6 @@
+nodes_removed,actually_removed,largest_component,connectivity_loss_percent
+50,50,12909,0.4166
+100,100,12482,3.7106
+200,200,10754,17.0408
+500,500,9645,25.5959
+1000,1000,4340,66.5201

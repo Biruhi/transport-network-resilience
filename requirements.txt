@@ -1,0 +1,9 @@
+osmnx
+networkx
+pandas
+numpy
+matplotlib
+geopandas
+folium
+scikit-learn
+jupyter
