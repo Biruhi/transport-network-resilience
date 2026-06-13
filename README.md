@@ -342,8 +342,6 @@ transport-network-resilience/
 
 **Biruhi Tesfaye Abeje**
 
-MSc in Road and Transport Engineering
-
 Research Interests:
 
 * Transportation Systems
