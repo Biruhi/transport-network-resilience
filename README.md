@@ -116,7 +116,7 @@ The transportation network was extracted from OpenStreetMap using OSMnx and repr
 Insert:
 
 ```markdown
-![Transportation Network](figures/bole_network.png)
+![Transportation Network](https://github.com/Biruhi/transport-network-resilience/blob/main/figures/bole_network.png)
 ```
 
 ---
@@ -146,7 +146,7 @@ Measures strategic influence based on network structure.
 Insert:
 
 ```markdown
-![Critical Intersections](figures/top50_critical_nodes.png)
+![Critical Intersections](https://github.com/Biruhi/transport-network-resilience/blob/main/figures/top50_critical_nodes.png)
 ```
 
 ---
@@ -178,7 +178,7 @@ Randomly selected intersections were removed from the network.
 Insert:
 
 ```markdown
-![Resilience Curve](figures/resilience_curve.png)
+![Resilience Curve](https://github.com/Biruhi/transport-network-resilience/blob/main/figures/resilience_curve.png)
 ```
 
 ### Figure 4: Random vs Targeted Attack Comparison
@@ -186,7 +186,7 @@ Insert:
 Insert:
 
 ```markdown
-![Random vs Targeted](figures/random_vs_targeted.png)
+![Random vs Targeted](https://github.com/Biruhi/transport-network-resilience/blob/main/figures/random_vs_targeted.png)
 ```
 
 ### Key Finding
@@ -246,7 +246,7 @@ Three machine learning models were evaluated:
 Insert:
 
 ```markdown
-![Model Comparison](figures/model_comparison.png)
+![Model Comparison](https://github.com/Biruhi/transport-network-resilience/blob/main/figures/model_comparison.png)
 ```
 
 ### Key Finding
@@ -272,7 +272,7 @@ Feature importance was evaluated using the Random Forest model.
 Insert:
 
 ```markdown
-![Feature Importance](figures/feature_importance.png)
+![Feature Importance](https://github.com/Biruhi/transport-network-resilience/blob/main/figures/feature_importance.png)
 ```
 
 ### Interpretation
