@@ -1,7 +1,5 @@
 # Quantifying Urban Transportation Network Resilience Through Complex Network Analysis and Machine Learning: A Case Study of Bole Sub-City, Addis Ababa, Ethiopia
-### Figure 1: Transportation Network
 
-![Transportation Network](figures/bole_network.png)
 ## Project Overview
 
 Transportation networks are critical infrastructures that support mobility, economic activity, and urban development. Understanding how transportation systems respond to disruptions is essential for developing resilient and sustainable mobility strategies.
@@ -115,13 +113,10 @@ The transportation network was extracted from OpenStreetMap using OSMnx and repr
 
 ### Figure 1: Transportation Network
 
-Insert:
 
-```markdown
-![Transportation Network](https://github.com/Biruhi/transport-network-resilience/blob/main/figures/bole_network.png)
-```
+![Transportation Network](figures/bole_network.png)
 
----
+
 
 ## Critical Infrastructure Identification
 
@@ -145,13 +140,7 @@ Measures strategic influence based on network structure.
 
 ### Figure 2: Critical Intersections
 
-Insert:
-
-```markdown
-![Critical Intersections](https://github.com/Biruhi/transport-network-resilience/blob/main/figures/top50_critical_nodes.png)
-```
-
----
+![Critical Intersections](figures/top50_critical_nodes.png)
 
 ## Transportation Resilience Assessment
 
@@ -177,19 +166,11 @@ Randomly selected intersections were removed from the network.
 
 ### Figure 3: Transportation Resilience Curve
 
-Insert:
-
-```markdown
-![Resilience Curve](https://github.com/Biruhi/transport-network-resilience/blob/main/figures/resilience_curve.png)
-```
+![Resilience Curve](figures/resilience_curve.png)
 
 ### Figure 4: Random vs Targeted Attack Comparison
 
-Insert:
-
-```markdown
-![Random vs Targeted](https://github.com/Biruhi/transport-network-resilience/blob/main/figures/random_vs_targeted.png)
-```
+![Random vs Targeted Attack](figures/random_vs_targeted.png)
 
 ### Key Finding
 
@@ -245,11 +226,7 @@ Three machine learning models were evaluated:
 
 ### Figure 5: Machine Learning Model Comparison
 
-Insert:
-
-```markdown
-![Model Comparison](https://github.com/Biruhi/transport-network-resilience/blob/main/figures/model_comparison.png)
-```
+![Model Comparison](figures/model_comparison.png)
 
 ### Key Finding
 
@@ -271,11 +248,7 @@ Feature importance was evaluated using the Random Forest model.
 
 ### Figure 6: Feature Importance
 
-Insert:
-
-```markdown
-![Feature Importance](https://github.com/Biruhi/transport-network-resilience/blob/main/figures/feature_importance.png)
-```
+![Feature Importance](figures/feature_importance.png)
 
 ### Interpretation
 
